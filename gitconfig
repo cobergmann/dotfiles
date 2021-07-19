@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = conradbergmann1@gmail.com
+	name = Conrad Bergmann
